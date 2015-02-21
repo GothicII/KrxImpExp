@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaxMrmImporter", "MaxMrmImporter.vcproj", "{9371E89C-2119-4660-80B7-EAE018EAE85C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug11_x64|Win32 = Debug11_x64|Win32
+		Debug11|Win32 = Debug11|Win32
+		Debug12_x64|Win32 = Debug12_x64|Win32
+		Debug12|Win32 = Debug12|Win32
+		Debug5|Win32 = Debug5|Win32
+		Debug6|Win32 = Debug6|Win32
+		Debug9_x64|Win32 = Debug9_x64|Win32
+		Debug9|Win32 = Debug9|Win32
+		Release11_x64|Win32 = Release11_x64|Win32
+		Release11|Win32 = Release11|Win32
+		Release12_x64|Win32 = Release12_x64|Win32
+		Release12|Win32 = Release12|Win32
+		Release5|Win32 = Release5|Win32
+		Release6|Win32 = Release6|Win32
+		Release9_x64|Win32 = Release9_x64|Win32
+		Release9|Win32 = Release9|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Debug11_x64|Win32.ActiveCfg = Debug11_x64|Win32
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Debug11|Win32.ActiveCfg = Debug11|Win32
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Debug12_x64|Win32.ActiveCfg = Debug12_x64|Win32
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Debug12|Win32.ActiveCfg = Debug12|Win32
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Debug5|Win32.ActiveCfg = Debug5|Win32
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Debug5|Win32.Build.0 = Debug5|Win32
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Debug6|Win32.ActiveCfg = Debug6|Win32
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Debug9_x64|Win32.ActiveCfg = Debug9_x64|Win32
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Debug9|Win32.ActiveCfg = Debug9|Win32
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Release11_x64|Win32.ActiveCfg = Release11_x64|Win32
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Release11|Win32.ActiveCfg = Release11|Win32
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Release12_x64|Win32.ActiveCfg = Release12_x64|Win32
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Release12|Win32.ActiveCfg = Release12|Win32
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Release5|Win32.ActiveCfg = Release5|Win32
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Release6|Win32.ActiveCfg = Release6|Win32
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Release9_x64|Win32.ActiveCfg = Release9_x64|Win32
+		{9371E89C-2119-4660-80B7-EAE018EAE85C}.Release9|Win32.ActiveCfg = Release9|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GMaxExtender", "GMaxExtender.vcproj", "{7C3F73AB-71F3-4EFE-A8CA-784D2111F793}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GMaxExtenderDLL", "GMaxExtenderDLL.vcproj", "{22A88ED1-B102-40E3-96D4-F988D6286813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C3F73AB-71F3-4EFE-A8CA-784D2111F793}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7C3F73AB-71F3-4EFE-A8CA-784D2111F793}.Debug|Win32.Build.0 = Debug|Win32
+		{7C3F73AB-71F3-4EFE-A8CA-784D2111F793}.Release|Win32.ActiveCfg = Release|Win32
+		{7C3F73AB-71F3-4EFE-A8CA-784D2111F793}.Release|Win32.Build.0 = Release|Win32
+		{22A88ED1-B102-40E3-96D4-F988D6286813}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22A88ED1-B102-40E3-96D4-F988D6286813}.Debug|Win32.Build.0 = Debug|Win32
+		{22A88ED1-B102-40E3-96D4-F988D6286813}.Release|Win32.ActiveCfg = Release|Win32
+		{22A88ED1-B102-40E3-96D4-F988D6286813}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
